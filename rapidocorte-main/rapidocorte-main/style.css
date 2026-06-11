@@ -1,0 +1,12 @@
+    h1{
+        color: rgb(34, 34, 159);
+        background-color: rgb(155, 41, 41);
+     }
+body {
+    
+    text-align: center;
+    background-image: url(Sonic.gif);
+}
+img{
+width: 550px;
+}
